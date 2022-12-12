@@ -26,7 +26,7 @@ public class AutoSuggestionsClickParticularElement {
 			for(WebElement listElement:autoSuggestList)
 			{
 				String text = listElement.getText();
-				if(text.contains("pakistan"))
+				if(text.contains("india"))
 				{
 					try
 					{
